@@ -1,0 +1,14 @@
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/bin/Debug/netcoreapp2.2/SignalR-Hub.deps.json
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/bin/Debug/netcoreapp2.2/SignalR-Hub.runtimeconfig.json
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/bin/Debug/netcoreapp2.2/SignalR-Hub.runtimeconfig.dev.json
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/bin/Debug/netcoreapp2.2/SignalR-Hub.dll
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/bin/Debug/netcoreapp2.2/SignalR-Hub.pdb
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/obj/Debug/netcoreapp2.2/SignalR-Hub.csprojAssemblyReference.cache
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/obj/Debug/netcoreapp2.2/SignalR-Hub.csproj.CoreCompileInputs.cache
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/obj/Debug/netcoreapp2.2/SignalR-Hub.RazorAssemblyInfo.cache
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/obj/Debug/netcoreapp2.2/SignalR-Hub.RazorAssemblyInfo.cs
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/obj/Debug/netcoreapp2.2/SignalR-Hub.AssemblyInfoInputs.cache
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/obj/Debug/netcoreapp2.2/SignalR-Hub.AssemblyInfo.cs
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/obj/Debug/netcoreapp2.2/SignalR-Hub.RazorTargetAssemblyInfo.cache
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/obj/Debug/netcoreapp2.2/SignalR-Hub.dll
+/home/moshe/VisualStudioCodeProjects/SignalR-Hub/obj/Debug/netcoreapp2.2/SignalR-Hub.pdb
